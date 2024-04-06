@@ -1,0 +1,15 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\bin\Debug\net8.0\Desafioo2Arreglos.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\bin\Debug\net8.0\Desafioo2Arreglos.deps.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\bin\Debug\net8.0\Desafioo2Arreglos.runtimeconfig.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\bin\Debug\net8.0\Desafioo2Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\bin\Debug\net8.0\Desafioo2Arreglos.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.AssemblyInfoInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.AssemblyInfo.cs
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.sourcelink.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\refint\Desafioo2Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\Desafioo2Arreglos.genruntimeconfig.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafioo2Arreglos\Desafioo2Arreglos\obj\Debug\net8.0\ref\Desafioo2Arreglos.dll

@@ -1,0 +1,15 @@
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.AssemblyInfoInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.AssemblyInfo.cs
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.sourcelink.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\bin\Debug\net8.0\Desafio1Arreglos.exe
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\bin\Debug\net8.0\Desafio1Arreglos.deps.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\bin\Debug\net8.0\Desafio1Arreglos.runtimeconfig.json
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\bin\Debug\net8.0\Desafio1Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\bin\Debug\net8.0\Desafio1Arreglos.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\refint\Desafio1Arreglos.dll
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.pdb
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\Desafio1Arreglos.genruntimeconfig.cache
+C:\Users\HP BLUE\Desktop\Tareas\Progra1\Desafio1Arreglos\Desafio1Arreglos\obj\Debug\net8.0\ref\Desafio1Arreglos.dll
